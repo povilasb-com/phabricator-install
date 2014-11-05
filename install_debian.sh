@@ -20,7 +20,7 @@ then
   GIT='git-core'
 fi
 
-echo "PHABRICATOR UBUNTU INSTALL SCRIPT";
+echo "PHABRICATOR DEBIAN INSTALL SCRIPT";
 echo "This script will install Phabricator and all of its core dependencies.";
 echo "Run it from the directory you want to install into.";
 echo
